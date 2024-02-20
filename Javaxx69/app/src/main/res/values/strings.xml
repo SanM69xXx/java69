@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Javaxx69</string>
+    
+    <string name="btn_text_sumar">sumar</string>
+    <string name="btn_text_restar">restar</string>
+    <string name="btn_text_multiplicar">multiplicar</string>
+    <string name="btn_text_dividir">dividir</string>
+</resources>
